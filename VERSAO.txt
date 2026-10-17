@@ -1,1 +1,1 @@
-SP2 FileScan 0.3.8
+SP2 FileScan 0.4.0
